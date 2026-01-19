@@ -16,9 +16,7 @@
 - 💬 Ask me about **asdasd**
 
 - 📫 How to reach me **j.banico.555860@umindanao.edu.ph**
-git branch -M main
-git remote add origin https://github.com/lSPRIKITIK/BANICO.git
-git push -u origin main
+
 - 📄 Know about my experiences [asdas](asdas)
 
 - ⚡ Fun fact **sir yes sir**
