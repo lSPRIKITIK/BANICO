@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm lSPRIKITIK</h1>
+<h1 align="center">Hi 👋, I'm John Kyle Banico</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **asdasd**
